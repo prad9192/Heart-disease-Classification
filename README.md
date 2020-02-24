@@ -1,2 +1,2 @@
 # Heart-disease-Classification
-Using LogisticRegression, RandomForestClassifier and K-Nearest Neighbours Classifier
+Using LogisticRegression, RandomForestClassifier and KNeighborsClassifier Classifier
